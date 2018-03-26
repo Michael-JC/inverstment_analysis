@@ -1,0 +1,7 @@
+{
+    "username": "18818216082",
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJjcmVhdGVfdGltZSI6IjE1MTI2MDkwMjIxNTAiLCJpc3MiOiJhdXRoMCIsImlkIjoiMTg4MTgyMTYwODIifQ.avsxgZEWjqMxLxLT-BCCKPx0gq1CFgbLN6IUyLMDmsM",
+    "strategy": 625,
+    "tradeAddress": "tcp://gw.quantos.org:8901", 
+    "dataAddress": "tcp://data.tushare.org:8910"
+}
